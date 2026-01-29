@@ -1,1 +1,3 @@
-2026-01-28 13:53:34.704059 This should print to a file.
+This is the second test string.
+line2
+line3
